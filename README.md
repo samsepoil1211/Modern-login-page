@@ -4,3 +4,8 @@
 <hr>
 
 # Screenshot
+<b>Here is the project screenshot</b>
+
+![screenshot](screenshot.jpg)
+
+<hr>
